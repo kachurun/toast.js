@@ -1,3 +1,8 @@
+/**
+ * Toast.js
+ * https://github.com/kachurun/toast.js
+*/
+
 let wrapper = null;
 let instances = [];
 
